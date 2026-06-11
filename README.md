@@ -10,6 +10,7 @@ FN+H暂停页面切换
 FN+G/J 单个xml内部翻页
 FN+左右切换主题
 FN+D切换delay模式，DLY:ON按照xml宏文件内部定义的触发时间(例如xml内delay=15是15ms后触发下一个动作)，DLY:OFF固定delay=15ms。
+xml宏文件放在sd卡的ComboKeyboard文件夹中
 ComboKeyboard, Bluetooth/USB Key Macro
 Supports Chinese
 Provides a macro editor
@@ -22,3 +23,4 @@ FN+H to pause page switching
 FN+G/J for page navigation within a single XML file
 FN+Left/Right to switch themes
 FN+D to toggle delay mode: DLY:ON follows the trigger time defined in the XML macro file (e.g., delay=15 in XML means 15ms before triggering the next action), DLY:OFF fixes the delay at 15ms.
+put xml files in the subfolder called ComboKeyboard in sd card
